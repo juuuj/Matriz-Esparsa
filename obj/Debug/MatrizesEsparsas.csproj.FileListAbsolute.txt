@@ -1,0 +1,30 @@
+C:\Users\u18057\Desktop\MatrizesEsparsas\MatrizesEsparsas\bin\Debug\MatrizesEsparsas.exe.config
+C:\Users\u18057\Desktop\MatrizesEsparsas\MatrizesEsparsas\bin\Debug\MatrizesEsparsas.exe
+C:\Users\u18057\Desktop\MatrizesEsparsas\MatrizesEsparsas\bin\Debug\MatrizesEsparsas.pdb
+C:\Users\u18057\Desktop\MatrizesEsparsas\MatrizesEsparsas\obj\Debug\MatrizesEsparsas.csprojResolveAssemblyReference.cache
+C:\Users\u18057\Desktop\MatrizesEsparsas\MatrizesEsparsas\obj\Debug\MatrizesEsparsas.Form1.resources
+C:\Users\u18057\Desktop\MatrizesEsparsas\MatrizesEsparsas\obj\Debug\MatrizesEsparsas.Properties.Resources.resources
+C:\Users\u18057\Desktop\MatrizesEsparsas\MatrizesEsparsas\obj\Debug\MatrizesEsparsas.csproj.GenerateResource.Cache
+C:\Users\u18057\Desktop\MatrizesEsparsas\MatrizesEsparsas\obj\Debug\MatrizesEsparsas.csproj.CoreCompileInputs.cache
+C:\Users\u18057\Desktop\MatrizesEsparsas\MatrizesEsparsas\obj\Debug\MatrizesEsparsas.exe
+C:\Users\u18057\Desktop\MatrizesEsparsas\MatrizesEsparsas\obj\Debug\MatrizesEsparsas.pdb
+E:\MatrizesEsparsas\MatrizesEsparsas\bin\Debug\MatrizesEsparsas.exe.config
+E:\MatrizesEsparsas\MatrizesEsparsas\bin\Debug\MatrizesEsparsas.exe
+E:\MatrizesEsparsas\MatrizesEsparsas\bin\Debug\MatrizesEsparsas.pdb
+E:\MatrizesEsparsas\MatrizesEsparsas\obj\Debug\MatrizesEsparsas.csprojAssemblyReference.cache
+E:\MatrizesEsparsas\MatrizesEsparsas\obj\Debug\MatrizesEsparsas.Form1.resources
+E:\MatrizesEsparsas\MatrizesEsparsas\obj\Debug\MatrizesEsparsas.Properties.Resources.resources
+E:\MatrizesEsparsas\MatrizesEsparsas\obj\Debug\MatrizesEsparsas.csproj.GenerateResource.cache
+E:\MatrizesEsparsas\MatrizesEsparsas\obj\Debug\MatrizesEsparsas.csproj.CoreCompileInputs.cache
+E:\MatrizesEsparsas\MatrizesEsparsas\obj\Debug\MatrizesEsparsas.exe
+E:\MatrizesEsparsas\MatrizesEsparsas\obj\Debug\MatrizesEsparsas.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\MatrizesEsparsas\MatrizesEsparsas\bin\Debug\MatrizesEsparsas.exe.config
+C:\Users\julia\OneDrive\Área de Trabalho\MatrizesEsparsas\MatrizesEsparsas\bin\Debug\MatrizesEsparsas.exe
+C:\Users\julia\OneDrive\Área de Trabalho\MatrizesEsparsas\MatrizesEsparsas\bin\Debug\MatrizesEsparsas.pdb
+C:\Users\julia\OneDrive\Área de Trabalho\MatrizesEsparsas\MatrizesEsparsas\obj\Debug\MatrizesEsparsas.csprojAssemblyReference.cache
+C:\Users\julia\OneDrive\Área de Trabalho\MatrizesEsparsas\MatrizesEsparsas\obj\Debug\MatrizesEsparsas.Form1.resources
+C:\Users\julia\OneDrive\Área de Trabalho\MatrizesEsparsas\MatrizesEsparsas\obj\Debug\MatrizesEsparsas.Properties.Resources.resources
+C:\Users\julia\OneDrive\Área de Trabalho\MatrizesEsparsas\MatrizesEsparsas\obj\Debug\MatrizesEsparsas.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Área de Trabalho\MatrizesEsparsas\MatrizesEsparsas\obj\Debug\MatrizesEsparsas.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Área de Trabalho\MatrizesEsparsas\MatrizesEsparsas\obj\Debug\MatrizesEsparsas.exe
+C:\Users\julia\OneDrive\Área de Trabalho\MatrizesEsparsas\MatrizesEsparsas\obj\Debug\MatrizesEsparsas.pdb
